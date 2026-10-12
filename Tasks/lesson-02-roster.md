@@ -15,3 +15,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 杜义天 | duyitian-ighgvfhg | 12 |
 | 徐熙程 | xiefensu2010 | 12班 |
 | 刘楚妤 | deepcsv | 12 |
+| 刘正东 | dongdong0323 | 12班 |
