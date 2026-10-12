@@ -10,3 +10,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 唐誉庭 | Tina0901450 | 12班 |
 | 郭俊辰 | Luoyuan0101 | 12 |
 | 刘蕙闻 | liu-99811 | 12班 |
+| 余悦 | yuueuuu | 7 |
