@@ -13,3 +13,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 余悦 | yuueuuu | 7 |
 | 陈逸豪 | john-BJ | 10班 |
 | 杜义天 | duyitian-ighgvfhg | 12 |
+| 徐熙程 | xiefensu2010 | 12班 |
